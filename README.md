@@ -32,7 +32,7 @@ Materiały z zajęć *Wstęp do Uczenia Maszynowego* (MiNI, 3 rok MAD)
     <td>3</td>
     <td>22.10.2025</td>
     <td>16.10.2025</td>
-    <td>Drzewa decyzyjne 2, ROC, AUC.</td>
+    <td>Drzewa decyzyjne 2, ROC, AUC</td>
     <td></td>
   </tr>
   <tr>
