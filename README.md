@@ -18,7 +18,7 @@ Materiały z zajęć *Wstęp do Uczenia Maszynowego* (MiNI, 3 rok MAD)
     <td>1</td>
     <td>08.10.2025</td>
     <td>02.10.2025</td>
-    <td>Wstęp do przedmiotu, ocena dokładności, kroswalidacja.</td>
+    <td>Wstęp do przedmiotu, ocena dokładności, kroswalidacja</td>
     <td></td>
   </tr>
   <tr>
