@@ -95,29 +95,29 @@ Materiały z zajęć *Wstęp do Uczenia Maszynowego* (MiNI, 3 rok MAD)
     <td>12</td>
     <td>07.01.2026</td>
     <td>08.01.2025</td>
-    <td>TBA</td>
+    <td>Analiza skupień: k-średnich</td>
     <td></td>
   </tr>
   <tr>
     <td>13</td>
     <td>14.01.2026</td>
     <td>15.01.2025</td>
-    <td>Analiza skupień: k-średnich</td>
+    <td>Analiza skupień: metody hierarchiczne</td>
     <td></td>
   </tr>
   <tr>
     <td>14</td>
     <td>21.01.2026</td>
     <td>22.01.2026</td>
-    <td>Analiza skupień: metody hierarchiczne</td>
-    <td></td>
+    <td>TBA</td>
+    <td>PD3 (15p)</td>
   </tr>
   <tr>
     <td>15</td>
     <td>28.01.2026</td>
     <td>29.01.2026</td>
     <td>Sieci neuronowe</td>
-    <td>PD3 (15p)</td>
+    <td></td>
   </tr>
 </tbody></table>
 
