@@ -18,14 +18,14 @@ Materiały z zajęć *Wstęp do Uczenia Maszynowego* (MiNI, 3 rok MAD)
     <td>1</td>
     <td>08.10.2025</td>
     <td>02.10.2025</td>
-    <td><a href="https://github.com/kozaka93/2025Z-MachineLearning/tree/main/labs/lab01">Wstęp do przedmiotu, ocena dokładności, kroswalidacja</a></td>
+    <td><a href="https://github.com/kozaka93/2025Z-MachineLearning/tree/main/labs/lab01">Wstęp do przedmiotu</a></td>
     <td></td>
   </tr>
   <tr>
     <td>2</td>
     <td>15.10.2025</td>
     <td>09.10.2025</td>
-    <td>Drzewa decyzyjne 1</td>
+    <td><a href="https://github.com/kozaka93/2025Z-MachineLearning/tree/main/labs/lab02">Drzewa decyzyjne 1</a></td>
     <td></td>
   </tr>
   <tr>
