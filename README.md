@@ -32,7 +32,7 @@ Materiały z zajęć *Wstęp do Uczenia Maszynowego* (MiNI, 3 rok MAD)
     <td>3</td>
     <td>22.10.2025</td>
     <td>16.10.2025</td>
-    <td>Drzewa decyzyjne 2, ROC, AUC</td>
+    <td><a href="https://github.com/kozaka93/2025Z-MachineLearning/tree/main/labs/lab03">Drzewa decyzyjne 2, ROC, AUC</td>
     <td></td>
   </tr>
   <tr>
@@ -40,7 +40,7 @@ Materiały z zajęć *Wstęp do Uczenia Maszynowego* (MiNI, 3 rok MAD)
     <td>29.10.2025</td>
     <td>23.10.2025</td>
     <td>Regresja logistyczna</td>
-    <td>PD1 (15p)</td>
+    <td><a href="https://github.com/kozaka93/2025Z-MachineLearning/tree/main/homeworks/homework1">PD1 </a>(15p)</td>
   </tr>
   <tr>
     <td>5</td>
