@@ -68,7 +68,7 @@ Materiały z zajęć *Wstęp do Uczenia Maszynowego* (MiNI, 3 rok MAD)
     <td>26.11.2025</td>
     <td>27.11.2025</td>
     <td>Naiwny Bayes, K najbliższych sąsiadów (kNN) <br> <i>Projekt - motywacja, opis, tematyka</i></td>
-    <td>PD2 (15p)</td>
+    <td><a href="https://github.com/kozaka93/2025Z-MachineLearning/tree/main/homeworks/homework2">PD2 </a>(15p)</td>
   </tr>
   <tr>
     <td>9</td>
