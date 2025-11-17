@@ -109,14 +109,14 @@ Materiały z zajęć *Wstęp do Uczenia Maszynowego* (MiNI, 3 rok MAD)
     <td>14</td>
     <td>21.01.2026</td>
     <td>22.01.2026</td>
-    <td>TBA</td>
+    <td>Sieci neuronowe</td>
     <td>PD3 (15p)</td>
   </tr>
   <tr>
     <td>15</td>
     <td>28.01.2026</td>
     <td>29.01.2026</td>
-    <td>Sieci neuronowe</td>
+    <td><i> Obrona Projektu </i></td>
     <td></td>
   </tr>
 </tbody></table>
