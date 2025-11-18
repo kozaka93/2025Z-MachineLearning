@@ -60,7 +60,7 @@ Materiały z zajęć *Wstęp do Uczenia Maszynowego* (MiNI, 3 rok MAD)
     <td>7</td>
     <td>19.11.2025</td>
     <td>20.11.2025</td>
-    <td>LDA, QDA</td>
+    <td><a href="https://github.com/kozaka93/2025Z-MachineLearning/tree/main/labs/lab07">Reprodukowalność wyników, LDA, QDA</a></td>
     <td></td>
   </tr>
   <tr>
@@ -89,14 +89,14 @@ Materiały z zajęć *Wstęp do Uczenia Maszynowego* (MiNI, 3 rok MAD)
     <td>17.12.2025</td>
     <td>18.12.2025</td>
     <td>Komitety klasyfikatorów</td>
-    <td>P (35p)</td>
+    <td></td>
   </tr>
   <tr>
     <td>12</td>
     <td>07.01.2026</td>
     <td>08.01.2025</td>
     <td>Analiza skupień: k-średnich</td>
-    <td></td>
+    <td>P (35p)</td>
   </tr>
   <tr>
     <td>13</td>
