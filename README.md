@@ -96,7 +96,7 @@ Materiały z zajęć *Wstęp do Uczenia Maszynowego* (MiNI, 3 rok MAD)
     <td>07.01.2026</td>
     <td>08.01.2025</td>
     <td>Analiza skupień: k-średnich</td>
-    <td>P (35p)</td>
+    <td><a href="https://github.com/kozaka93/2025Z-MachineLearning/tree/main/project">P </a>(35p)</td>
   </tr>
   <tr>
     <td>13</td>
