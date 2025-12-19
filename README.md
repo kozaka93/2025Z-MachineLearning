@@ -81,14 +81,14 @@ Materiały z zajęć *Wstęp do Uczenia Maszynowego* (MiNI, 3 rok MAD)
     <td>10</td>
     <td>10.12.2025</td>
     <td>11.12.2025</td>
-    <td>Selekcja zmiennych, PCA</td>
+    <td><a href="https://github.com/kozaka93/2025Z-MachineLearning/tree/main/labs/lab10">Selekcja zmiennych, PCA</a></td>
     <td></td>
   </tr>
   <tr>
     <td>11</td>
     <td>17.12.2025</td>
     <td>18.12.2025</td>
-    <td>Komitety klasyfikatorów</td>
+    <td><a href="https://github.com/kozaka93/2025Z-MachineLearning/tree/main/labs/lab11">Komitety klasyfikatorów</a></td>
     <td></td>
   </tr>
   <tr>
