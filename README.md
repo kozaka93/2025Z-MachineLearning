@@ -102,7 +102,7 @@ Materiały z zajęć *Wstęp do Uczenia Maszynowego* (MiNI, 3 rok MAD)
     <td>13</td>
     <td>14.01.2026</td>
     <td>15.01.2025</td>
-    <td>Analiza skupień: metody hierarchiczne</td>
+    <td><a href="https://github.com/kozaka93/2025Z-MachineLearning/tree/main/labs/lab13">Analiza skupień: metody hierarchiczne</a></td>
     <td></td>
   </tr>
   <tr>
