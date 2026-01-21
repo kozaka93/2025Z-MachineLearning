@@ -109,7 +109,7 @@ Materiały z zajęć *Wstęp do Uczenia Maszynowego* (MiNI, 3 rok MAD)
     <td>14</td>
     <td>21.01.2026</td>
     <td>22.01.2026</td>
-    <td>Sieci neuronowe</td>
+    <td><a href="https://github.com/kozaka93/2025Z-MachineLearning/tree/main/labs/lab14">Sieci neuronowe</a></td>
     <td>PD3 (15p)</td>
   </tr>
   <tr>
